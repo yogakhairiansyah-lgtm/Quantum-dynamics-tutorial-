@@ -1,0 +1,55 @@
+Start = Tue May 19 14:57:40 WIB 2026
+Total input: 45 file
+Method     : CASSCF(2,2) / STO-3G  [= FCI untuk H2]
+==============================
+  → Running: inputs_casscf/h2_0.30.inp
+  → Running: inputs_casscf/h2_0.35.inp
+  → Running: inputs_casscf/h2_0.40.inp
+  → Running: inputs_casscf/h2_0.45.inp
+  → Running: inputs_casscf/h2_0.50.inp
+  → Running: inputs_casscf/h2_0.55.inp
+  → Running: inputs_casscf/h2_0.60.inp
+  → Running: inputs_casscf/h2_0.65.inp
+  → Running: inputs_casscf/h2_0.70.inp
+  → Running: inputs_casscf/h2_0.75.inp
+  → Running: inputs_casscf/h2_0.80.inp
+  → Running: inputs_casscf/h2_0.85.inp
+  → Running: inputs_casscf/h2_0.90.inp
+  → Running: inputs_casscf/h2_0.95.inp
+  → Running: inputs_casscf/h2_1.00.inp
+  → Running: inputs_casscf/h2_1.05.inp
+  → Running: inputs_casscf/h2_1.10.inp
+  → Running: inputs_casscf/h2_1.15.inp
+  → Running: inputs_casscf/h2_1.20.inp
+  → Running: inputs_casscf/h2_1.25.inp
+  → Running: inputs_casscf/h2_1.30.inp
+  → Running: inputs_casscf/h2_1.35.inp
+  → Running: inputs_casscf/h2_1.40.inp
+  → Running: inputs_casscf/h2_1.45.inp
+  → Running: inputs_casscf/h2_1.50.inp
+  → Running: inputs_casscf/h2_1.55.inp
+  → Running: inputs_casscf/h2_1.60.inp
+  → Running: inputs_casscf/h2_1.65.inp
+  → Running: inputs_casscf/h2_1.70.inp
+  → Running: inputs_casscf/h2_1.75.inp
+  → Running: inputs_casscf/h2_1.80.inp
+  → Running: inputs_casscf/h2_1.85.inp
+  → Running: inputs_casscf/h2_1.90.inp
+  → Running: inputs_casscf/h2_1.95.inp
+  → Running: inputs_casscf/h2_2.00.inp
+  → Running: inputs_casscf/h2_2.05.inp
+  → Running: inputs_casscf/h2_2.10.inp
+  → Running: inputs_casscf/h2_2.15.inp
+  → Running: inputs_casscf/h2_2.20.inp
+  → Running: inputs_casscf/h2_2.25.inp
+  → Running: inputs_casscf/h2_2.30.inp
+  → Running: inputs_casscf/h2_2.35.inp
+  → Running: inputs_casscf/h2_2.40.inp
+  → Running: inputs_casscf/h2_2.45.inp
+  → Running: inputs_casscf/h2_2.50.inp
+==============================
+Finish = Tue May 19 14:57:47 WIB 2026
+
+=== CEK HASIL ===
+  ✓ Berhasil : 45 file
+  ✗ Gagal    : 0 file
